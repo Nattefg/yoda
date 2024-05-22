@@ -1,0 +1,68 @@
+body  {
+
+    font-family: sans-serif;
+    background-color: black;
+}
+
+section{
+
+    border:10px solid yellow;
+    height: 100vh;
+}
+
+img {
+    width: 37%;
+}
+
+
+
+h1 
+{
+    color:yellow;
+    text-align: center;
+    font-size: 50px;
+    
+}
+.bilder img{
+    height: 200px;
+    width: 365px;
+    border: yellow solid 5px;
+    margin-left: 13px;
+    background-color: white;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: orange;
+
+}
+
+li {
+
+    float: left;
+
+}
+
+li a {
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: white;
+
+}
+
+
+li a:hover {
+    background-color: #111;
+}
+
+ p{
+    color:white;
+ }
+ 
+
